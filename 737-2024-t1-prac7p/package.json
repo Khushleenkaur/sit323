@@ -1,0 +1,14 @@
+{
+    "name": "nodejs-microservice",
+    "version": "1.0.0",
+    "description": "A Node.js microservice interacting with MongoDB",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "mongodb": "^3.6.0",
+      "express": "^4.17.1"
+    }
+  }
+  
